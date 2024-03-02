@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ground
+  - 
+  - Danger
+  - Portal
+  - PickUps
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4264713651
+    locked: 0
+  - name: Platforms
+    uniqueID: 1666172473
+    locked: 0
+  - name: PickUps
+    uniqueID: 796078591
+    locked: 0
+  - name: Enemies
+    uniqueID: 2626396083
+    locked: 0
+  - name: Player
+    uniqueID: 617597761
+    locked: 0
